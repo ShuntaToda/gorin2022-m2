@@ -1,0 +1,11 @@
+.c-board__body {
+  height: calc(100vh - 144px);
+}
+
+.c-task__btn {
+  min-width: 60px;
+}
+
+.c-category {
+  min-width: 450px;
+}/*# sourceMappingURL=App.css.map */

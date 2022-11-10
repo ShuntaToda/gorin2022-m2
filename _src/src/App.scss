@@ -1,0 +1,15 @@
+.c-board{
+    &__body{
+        height: calc(100vh - 144px);
+    }
+}
+
+.c-task{
+    &__btn{
+        min-width: 60px;
+    }
+}
+
+.c-category{
+    min-width: 450px;
+}
